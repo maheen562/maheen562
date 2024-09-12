@@ -5,7 +5,9 @@
 ## You can view my student projects here:
  https://github.com/maheen562/StudentProjects
 
-## You can view my personal project here
+## You can view my personal project here:
+
+## You can view my Open Source Contributions here:
 
 ## Contact me (via email): 
 maheenkhan193@gmail.com
