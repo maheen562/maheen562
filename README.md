@@ -21,10 +21,20 @@ Chemist Warehouse website: https://www.chemistwarehouse.com.au/
 
 
 To run this application locally, clone the repository: https://github.com/maheen562/chemist-warehouse-rebrand
+
+
 pre-requisites: install react.js, npm
+
+
 in the command line: cd chemist-warehouse-rebrand
+
+
 npm install //to install all packages
+
+
 npm start // to run application on local host
+
+Open your browser and navigate to `http://localhost:3000`.
 
 
 ## You can view my Open Source Contributions here:
